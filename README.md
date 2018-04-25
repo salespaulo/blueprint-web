@@ -8,3 +8,13 @@ $> sudo docker run -d                           \
     --network <nome_rede>                       \
     -p 4000:4000 sed-it-name-app
 ```
+
+### Change project name
+
+Execute following shell scripts:
+```
+
+```
+
+```
+```
