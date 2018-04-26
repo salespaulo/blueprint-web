@@ -1,4 +1,6 @@
 #### sed-it-name-app
+- Node Version 9.11.1
+- Node Package Manager Version 5.6.0
 
 Projeto maven parent para agrupar os projetos *nodejs* e *reactjs*
 
